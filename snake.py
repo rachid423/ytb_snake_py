@@ -3,7 +3,7 @@ import pygame, sys, time, random
 
 
 # THANKS FOR WATHING, WHAT KIND OF GAMES U WANT TO SEE NEXT TIME? PLEASE STATE IT IN THE COMMENTS
-
+ 
 # CHEERSS
 
 
@@ -27,7 +27,8 @@ else:
 pygame.display.set_caption("Snake Game")
 game_window = pygame.display.set_mode((frame_size_x, frame_size_y))
 
-# colors
+# here explain how put an colors in 
+pygame
 black = pygame.Color(0,0,0)
 white = pygame.Color(255,255,255)
 red = pygame.Color(255,0,0)
